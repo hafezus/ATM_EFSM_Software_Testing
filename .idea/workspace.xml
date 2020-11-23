@@ -16,10 +16,22 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a3fa101-d834-4653-99e5-5b6894b52421" name="Default Changelist" comment="" />
+    <list default="true" id="8a3fa101-d834-4653-99e5-5b6894b52421" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATM2/src/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/ATM2/src/ATM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATM2/test/ATMTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ATM2/test/ATMTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/ATM2 (4)/ATMTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/ATM2 (4)/ATMTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,24 +63,14 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="JUnit.ATMTest.testAllUsesCodePartial_2_4">
-    <configuration name="ATMTest.testAllUsesCodePartial_2_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ATMTest">
+    <configuration name="ATMTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ATM2 (4)" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ATMTest" />
-      <option name="METHOD_NAME" value="testAllUsesCodePartial_2_1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ATMTest.testAllUsesCodePartial_2_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ATM2 (4)" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ATMTest" />
-      <option name="METHOD_NAME" value="testAllUsesCodePartial_2_2" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -83,21 +85,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ATMTest.testAllUsesCodePartial_2_4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ATMTest.testAllUsesCodePartial_6_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ATM2 (4)" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ATMTest" />
-      <option name="METHOD_NAME" value="testAllUsesCodePartial_2_4" />
+      <option name="METHOD_NAME" value="testAllUsesCodePartial_6_2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ATMTest.testAllUsesCodePartial_2_5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ATMTest.testAllUsesCodePartial_6_3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ATM2 (4)" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ATMTest" />
-      <option name="METHOD_NAME" value="testAllUsesCodePartial_2_5" />
+      <option name="METHOD_NAME" value="testAllUsesCodePartial_6_3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ATMTest.testAllUsesCodePartial_6_4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ATM2 (4)" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ATMTest" />
+      <option name="METHOD_NAME" value="testAllUsesCodePartial_6_4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ATMTest.testAllUsesCodePartial_2_4" />
+        <item itemvalue="JUnit.ATMTest" />
+        <item itemvalue="JUnit.ATMTest.testAllUsesCodePartial_6_4" />
         <item itemvalue="JUnit.ATMTest.testAllUsesCodePartial_2_3" />
-        <item itemvalue="JUnit.ATMTest.testAllUsesCodePartial_2_5" />
-        <item itemvalue="JUnit.ATMTest.testAllUsesCodePartial_2_2" />
-        <item itemvalue="JUnit.ATMTest.testAllUsesCodePartial_2_1" />
+        <item itemvalue="JUnit.ATMTest.testAllUsesCodePartial_6_3" />
+        <item itemvalue="JUnit.ATMTest.testAllUsesCodePartial_6_2" />
       </list>
     </recent_temporary>
   </component>
@@ -131,11 +143,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="333" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606061537740">
@@ -146,62 +171,70 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="92" y="132" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1606065620071" />
-    <state width="1877" height="408" key="GridCell.Tab.0.bottom" timestamp="1606122042661">
+    <state x="740" y="314" key="FileChooserDialogImpl" timestamp="1606153053284">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="408" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1606122042661" />
-    <state width="1877" height="408" key="GridCell.Tab.0.center" timestamp="1606122042661">
+    <state x="740" y="314" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1606153053284" />
+    <state width="1877" height="495" key="GridCell.Tab.0.bottom" timestamp="1606172009557">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="408" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1606122042661" />
-    <state width="1877" height="408" key="GridCell.Tab.0.left" timestamp="1606122042661">
+    <state width="1877" height="495" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1606172009557" />
+    <state width="1877" height="495" key="GridCell.Tab.0.center" timestamp="1606172009557">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="408" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1606122042661" />
-    <state width="1877" height="408" key="GridCell.Tab.0.right" timestamp="1606122042661">
+    <state width="1877" height="495" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1606172009557" />
+    <state width="1877" height="495" key="GridCell.Tab.0.left" timestamp="1606172009556">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="408" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1606122042661" />
-    <state width="1877" height="384" key="GridCell.Tab.1.bottom" timestamp="1606121937901">
+    <state width="1877" height="495" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1606172009556" />
+    <state width="1877" height="495" key="GridCell.Tab.0.right" timestamp="1606172009557">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="384" key="GridCell.Tab.1.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1606121937901" />
-    <state width="1877" height="384" key="GridCell.Tab.1.center" timestamp="1606121937901">
+    <state width="1877" height="495" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1606172009557" />
+    <state width="1877" height="384" key="GridCell.Tab.1.bottom" timestamp="1606168722537">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="384" key="GridCell.Tab.1.center/0.40.1920.1040@0.40.1920.1040" timestamp="1606121937901" />
-    <state width="1877" height="384" key="GridCell.Tab.1.left" timestamp="1606121937901">
+    <state width="1877" height="384" key="GridCell.Tab.1.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1606168722537" />
+    <state width="1877" height="384" key="GridCell.Tab.1.center" timestamp="1606168722536">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="384" key="GridCell.Tab.1.left/0.40.1920.1040@0.40.1920.1040" timestamp="1606121937901" />
-    <state width="1877" height="384" key="GridCell.Tab.1.right" timestamp="1606121937901">
+    <state width="1877" height="384" key="GridCell.Tab.1.center/0.40.1920.1040@0.40.1920.1040" timestamp="1606168722536" />
+    <state width="1877" height="384" key="GridCell.Tab.1.left" timestamp="1606168722536">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="384" key="GridCell.Tab.1.right/0.40.1920.1040@0.40.1920.1040" timestamp="1606121937901" />
-    <state x="440" y="134" key="SettingsEditor" timestamp="1606061489910">
+    <state width="1877" height="384" key="GridCell.Tab.1.left/0.40.1920.1040@0.40.1920.1040" timestamp="1606168722536" />
+    <state width="1877" height="384" key="GridCell.Tab.1.right" timestamp="1606168722537">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="440" y="134" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1606061489910" />
+    <state width="1877" height="384" key="GridCell.Tab.1.right/0.40.1920.1040@0.40.1920.1040" timestamp="1606168722537" />
+    <state x="440" y="134" key="SettingsEditor" timestamp="1606145696223">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="440" y="134" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1606145696223" />
     <state x="700" y="412" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1606061508947">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="700" y="412" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.40.1920.1040@0.40.1920.1040" timestamp="1606061508947" />
-    <state x="616" y="260" key="run.anything.popup" timestamp="1606070260402">
+    <state x="342" y="180" key="new project wizard" timestamp="1606145897668">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="616" y="260" key="run.anything.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1606070260402" />
-    <state x="623" y="265" width="670" height="676" key="search.everywhere.popup" timestamp="1606066482119">
+    <state x="342" y="180" key="new project wizard/0.40.1920.1040@0.40.1920.1040" timestamp="1606145897668" />
+    <state x="616" y="260" key="run.anything.popup" timestamp="1606165418743">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="623" y="265" width="670" height="676" key="search.everywhere.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1606066482119" />
+    <state x="616" y="260" key="run.anything.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1606165418743" />
+    <state x="623" y="265" width="672" height="676" key="search.everywhere.popup" timestamp="1606145660639">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="623" y="265" width="672" height="676" key="search.everywhere.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1606145660639" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/ATM2/src/ATM.java</url>
-          <line>158</line>
-          <option name="timeStamp" value="31" />
+          <line>163</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
